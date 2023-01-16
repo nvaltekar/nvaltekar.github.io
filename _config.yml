@@ -17,9 +17,9 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "nvaltekar.github.io" # the subpath of your site, e.g. /blog
 
-title      : Niraj Vasant Altekar
+title      : NIRAJ ALTEKAR
 email      : nvaltekar@outlook.com #this is also the email contact forms will go to
-description: "Personal website"
+description: "Personal Webpage"
 author     : Niraj Vasant Altekar
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
